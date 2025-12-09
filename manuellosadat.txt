@@ -1,0 +1,6 @@
+- HTML
+- CSS
+- Git
+
+La herramienta que más me ha gustado aprender es Git.
+También he disfrutado trabajar con HTML y CSS.
